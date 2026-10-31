@@ -1,0 +1,11 @@
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Test data
+Songs/
